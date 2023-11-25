@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.894,=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.609,=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,C:\Users\Александр\Desktop\Backuper\test\Project1.dproj=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.429,=C:\Users\Александр\Desktop\Backuper\FTP\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,=C:\Users\Александр\Desktop\Backuper\FTP\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,C:\Users\Александр\Desktop\Backuper\tgputtylib-build19\tgputty.release\tgputtysftp.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,=C:\Users\Александр\Desktop\Backuper\tgputtylib-build19\tgputty.release\tgputtysftp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,=C:\Users\Александр\Desktop\Backuper\FTP\Lib\tgputtysftp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.443,C:\Users\Александр\Desktop\Backuper\FTP\uFTP.pas=C:\Users\Александр\Desktop\Backuper\FTP\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,=C:\Users\Александр\Desktop\Backuper\FTP\Lib\tgputtylib.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,C:\Users\Александр\Desktop\Backuper\FTP\uSFTP.pas=C:\Users\Александр\Desktop\Backuper\FTP\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,C:\Users\Александр\Desktop\Backuper\test\Unit1.pas=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.982,C:\Users\Александр\Desktop\Backuper\tgputtylib-build19\tgputty.release\tgputtylib.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,C:\Users\Александр\Desktop\Backuper\tgputtylib-build19\tgputty.release\tgputtysftpclient.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.168,=C:\Users\Александр\Desktop\Backuper\tgputtylib-build19\tgputty.release\tgputtysftpclient.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.134,=C:\Users\Александр\Desktop\Backuper\tgputtylib-build19\tgputty.release\tgputtylib.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,C:\Users\Александр\Desktop\Backuper\test\Unit1.dfm=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
