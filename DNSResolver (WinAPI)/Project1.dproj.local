@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.933,=D:\Unit\uLog.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.699,D:\Unit\uLog.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.180,C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Александр\Desktop\DNS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Александр\Desktop\DNS\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.180,C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Александр\Desktop\DNS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=C:\Users\Александр\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023.12.03 22:35:34.031,=D:\WORK\My\Units\DnsResolveUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
