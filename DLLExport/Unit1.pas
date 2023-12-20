@@ -94,7 +94,7 @@ end;
 
 Procedure TfrmDLLExport.SearchEngine(const aFuncName: string);
 const
- cQuery = 'https://social.msdn.microsoft.com/Search/ru-RU?query=%s&emptyWatermark=true&addenglish=1';
+ cQuery = 'https://www.google.com/search?q=%s';
 Begin
  ShellExecute( Handle, 'open', PWideChar(Format(cQuery, [aFuncName])), nil, nil, SW_NORMAL );
 End;
